@@ -3,9 +3,9 @@
 ### ★ Github data ★
 >
 > *Number of visitors*
-* **Visitor Github @Andyjajang-999**
+***Visitor Github @Andyjajang-999**
 ![Andyjajang-999](https://komarev.com/ghpvc/?username=Andyjajang-999&color=blue)
-* **Visitor Github @Andyjajang-200**
+***Visitor Github @Andyjajang-200**
 ![Andyjajang-200](https://komarev.com/ghpvc/?username=Andyjajang-200&color=red)
 >
 ###  ★★ My. Projects ★★
